@@ -71,4 +71,4 @@ Enthusiastic Data Analyst Trainee with hands-on experience in data analysis, SQL
   2. [IMDB Movie Analysis using Excel](https://youtu.be/Fc8Iro6YnWw)
   3. [Corona Virus Analysis using SQL](https://youtu.be/7AyCBPcWhN0)
 ## Download CV
-- [Download My CV (PDF)](https://github.com/shahanasbeegam/IEEE-LAUNCHPAD/cv.pdf)
+- [Download My CV (PDF)](https://github.com/shahanasbeegam/IEEE-LAUNCHPAD/blob/main/cv.pdf)
